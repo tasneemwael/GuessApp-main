@@ -1,0 +1,4 @@
+#Sun Dec 01 23:44:11 EET 2024
+base.0=C\:\\Users\\tasne\\Downloads\\Compressed\\GuessApp-main_5\\GuessApp-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
